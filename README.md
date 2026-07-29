@@ -32,3 +32,5 @@ Windows 깊은 곳(커널)부터 AI 추론까지 만지는 C++ 개발자예요.
 ### 🔗 더 보기
 
 **[📄 포트폴리오](https://devdongin.github.io)** · [✍️ 블로그](https://he11oworld.tistory.com) · 📮 devdongin@gmail.com
+
+![Hits](https://hits.sh/github.com/devdongin.svg?style=flat-square&label=%EA%B5%AC%EA%B2%BD%EC%98%A8%20%EC%82%AC%EB%9E%8C&color=58a6ff&labelColor=161b22)

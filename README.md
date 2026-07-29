@@ -1,9 +1,11 @@
 <img src="https://devdongin.github.io/login_avatar.jpg" width="110" align="right" alt="맥북 뒤에서 빼꼼" />
 
-## 안녕하세요, 선동인입니다 👋
+### 안녕하세요, 선동인입니다 👋
 
 Windows 깊은 곳(커널)부터 AI 추론까지 만지는 C++ 개발자예요.  
 낮에는 보안 솔루션을 만들고, 가끔은 골프 스윙 분석기 같은 것도 만듭니다 ⛳
+
+<br clear="both" />
 
 ### 🛠 주력 스택
 

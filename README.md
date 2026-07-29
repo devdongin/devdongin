@@ -1,18 +1,32 @@
-<img src="https://devdongin.github.io/login_avatar.jpg" width="120" align="right" alt="선동인 미모지" />
+<img src="https://devdongin.github.io/login_avatar.jpg" width="110" align="right" alt="맥북 뒤에서 빼꼼" />
 
-## 선동인 · Windows Systems & AI Inference Engineer
+## 안녕하세요, 선동인입니다 👋
 
-커널 드라이버부터 AI 추론 SDK, 배포 파이프라인까지 —
-**Windows 보안 솔루션의 전체 사이클**을 다루는 저수준 시스템 개발자입니다.
+Windows 깊은 곳(커널)부터 AI 추론까지 만지는 C++ 개발자예요.
+낮에는 보안 솔루션을 만들고, 가끔은 골프 스윙 분석기 같은 것도 만듭니다 ⛳
 
-- 🔧 **커널 드라이버** — FileSystem Minifilter 단독 개발, Microsoft filter altitude 정식 할당 (`CULockerFsfd.sys`)
-- 🤖 **AI 추론 SDK** — OpenVINO 기반 C/C++ 추론 엔진(CUFaceSDK) 설계·개발, 멀티 언어 바인딩
-- 🛡 **Vision AI 보안 솔루션 SEEUON** — 화면 촬영 감지·안면인증·위변조 탐지, 2024 회사 매출의 40–50% 담당
-- 🔍 **리버스 엔지니어링** — WinDbg 크래시 덤프 분석, 보안 솔루션 간 충돌 규명
-- 📈 **최근 12개월 884 커밋** — 회사 조직 프라이빗 저장소 포함, 전 저장소·전 브랜치 집계
+### 🛠 주력 스택
 
-> 주요 개발 활동은 재직 중인 회사 조직(SECERN AI)의 프라이빗 저장소에서 이루어집니다 — 잔디가 조용한 이유입니다 🙂
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 📄 [포트폴리오 — devdongin.github.io](https://devdongin.github.io)
+![Windows](https://img.shields.io/badge/Windows_Kernel-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-8A2BE2?style=for-the-badge&logo=intel&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[Tech Blog](https://he11oworld.tistory.com) · devdongin@gmail.com
+### 🧩 요즘 하는 것
+
+- 🔧 파일시스템 미니필터 **커널 드라이버** 만들기 (Microsoft altitude 정식 할당 받음!)
+- 🤖 AI 모델을 C++ **추론 SDK**로 포팅해서 진짜 제품에 넣기
+- 🔍 WinDbg로 크래시 덤프 뒤지면서 범인 찾기
+- 🍎 AI 코딩 하네스와 함께 **macOS 앱**에도 도전 중
+
+> 🌱 잔디가 휑한 이유: 진짜 커밋들은 회사 조직 프라이빗 저장소에 살고 있어요.
+> 최근 12개월 동안 저쪽 세상에선 매일같이 자라는 중 🌿
+
+### 🔗 더 보기
+
+**[📄 포트폴리오](https://devdongin.github.io)** · [✍️ 블로그](https://he11oworld.tistory.com) · 📮 devdongin@gmail.com

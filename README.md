@@ -3,7 +3,7 @@
 ### 안녕하세요, 선동인입니다 👋
 
 소프트웨어 레이어 중 가장 낮은 곳 (Windows 커널)부터 가장 높은곳인 AI 까지 만지는 C++ 개발자입니다.  
-낮에는 Vision AI 기반의 보안 솔루션을 만들고 집에서는 AI로 이것 저것 만듭니다⛳
+낮에는 Vision AI 기반의 보안 솔루션을 만들고 집에서는 AI로 이것 저것 만듭니다.
 
 <br clear="both" />
 
@@ -20,8 +20,8 @@
 
 ### 📘 학습중
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI]
-![BackEnd]
+![FastAPI](https://img.shields.io/badge/FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BackEnd](https://img.shields.io/badge/Back_End-Server)
 
 ### 🧩 요즘 하는 것
 

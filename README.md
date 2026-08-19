@@ -1,4 +1,4 @@
-<img src="https://devdongin.github.io/login_avatar.jpg" width="110" align="right" alt="맥북 뒤에서 빼꼼" />
+<img src="https://devdongin.github.io/assets/images/login_avatar.jpg" width="110" align="right" alt="맥북 뒤에서 빼꼼">
 
 ### 안녕하세요, 선동인입니다 👋
 
